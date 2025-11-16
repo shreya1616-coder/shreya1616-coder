@@ -1,8 +1,8 @@
 
-![logo](Banner.png)
+![logo](https://wallpaperaccess.com/full/1658350.jpg)
 
 <h1 align="center">Hi 👋, I'm Shreya</h1>
-<h3 align="center">A passionate frontend developer from India</h3> 
+<h3 align="center">A passionate web developer from India</h3> 
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFkcDNydW11ZHFiNm9rc25qcDNqbWp2ajZlNWdjOXRiODVjZTNmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya1616-coder&label=Profile%20views&color=0e75b6&style=flat" alt="shreya1616-coder" /> </p>
